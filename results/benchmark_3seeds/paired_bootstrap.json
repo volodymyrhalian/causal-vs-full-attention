@@ -1,0 +1,92 @@
+[
+  {
+    "task": "left",
+    "seed": 7,
+    "delta_full_minus_causal": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ],
+    "resamples": 2000
+  },
+  {
+    "task": "left",
+    "seed": 11,
+    "delta_full_minus_causal": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ],
+    "resamples": 2000
+  },
+  {
+    "task": "left",
+    "seed": 19,
+    "delta_full_minus_causal": 0.0,
+    "ci95": [
+      0.0,
+      0.0
+    ],
+    "resamples": 2000
+  },
+  {
+    "task": "right",
+    "seed": 7,
+    "delta_full_minus_causal": 0.5085,
+    "ci95": [
+      0.487,
+      0.5315
+    ],
+    "resamples": 2000
+  },
+  {
+    "task": "right",
+    "seed": 11,
+    "delta_full_minus_causal": 0.504,
+    "ci95": [
+      0.4825,
+      0.527
+    ],
+    "resamples": 2000
+  },
+  {
+    "task": "right",
+    "seed": 19,
+    "delta_full_minus_causal": 0.51,
+    "ci95": [
+      0.4885,
+      0.5305124999999999
+    ],
+    "resamples": 2000
+  },
+  {
+    "task": "xor",
+    "seed": 7,
+    "delta_full_minus_causal": 0.5055,
+    "ci95": [
+      0.48448749999999996,
+      0.5285
+    ],
+    "resamples": 2000
+  },
+  {
+    "task": "xor",
+    "seed": 11,
+    "delta_full_minus_causal": 0.515,
+    "ci95": [
+      0.4925,
+      0.5385
+    ],
+    "resamples": 2000
+  },
+  {
+    "task": "xor",
+    "seed": 19,
+    "delta_full_minus_causal": 0.493,
+    "ci95": [
+      0.4705,
+      0.515
+    ],
+    "resamples": 2000
+  }
+]
